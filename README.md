@@ -2,6 +2,7 @@
 - 👀 I’m interested in programming, data engineering, data platforms, cloud technologies, etc.
 - 🐦 @gareth
 - 🐘 ma0gw@mastodon.social
+- https://www.linkedin.com/in/gwestern/
 
 <!---
 gdubya/gdubya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
